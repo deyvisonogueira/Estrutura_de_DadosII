@@ -1,2 +1,2 @@
 # bubbleSort
-Prática em sala de aula.
+Práticas em sala de aula.
